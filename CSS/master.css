@@ -1,0 +1,40 @@
+
+
+body {
+    background: #E5E5E5;
+}
+img {
+    width: 30px;
+    height: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+.match1,
+.match2,
+.match3,
+.match4,
+.match5 { 
+    background-color: #eee;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    width: 800px;
+    margin: 20px auto;
+}
+
+.vs {
+    font-size: 19px;
+    margin-left: 300px;
+    font-family: Rawk Brush;
+}
+
+.teamOne img {
+    float:left;
+}
+
+.teamTwo img {
+    float: right;
+}
